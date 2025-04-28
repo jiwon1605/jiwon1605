@@ -4,7 +4,7 @@
 
 
 ## ✨I'm Confident in
-<img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white" width="130"/> <img src="https://img.shields.io/badge/Firebase-DD2C00.svg?&style=for-the-badge&logo=Firebase&logoColor=white" width="150"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white" width="135"/> <img src="https://img.shields.io/badge/Firebase-DD2C00.svg?&style=for-the-badge&logo=Firebase&logoColor=white" width="150"/>
 
 ## 🔧Using Tools like
 <img src="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white" width="150"/> <img src="https://img.shields.io/badge/VirtualBox-2F61B4.svg?&style=for-the-badge&logo=VirtualBox&logoColor=white" width="150"/> 

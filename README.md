@@ -1,5 +1,6 @@
 ## 💻Main Language
-<img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white" width="81"/> <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=yellow" width="150"/> <img src="https://img.shields.io/badge/C#-00599C.svg?&style=for-the-badge&logo=C#&logoColor=white" width="81"/>
+<img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white" width="81"/> <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=yellow" width="150"/> <img src="https://cdn.simpleicons.org/csharp/239120" width="60"/>
+
 
 ## ✨I'm Confident in
 <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white" width="150"/> <img src="https://img.shields.io/badge/Firebase-DD2C00.svg?&style=for-the-badge&logo=Firebase&logoColor=white" width="150"/>

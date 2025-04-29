@@ -1,4 +1,6 @@
-<img src="https://github.com/your-username/your-repo-name/blob/main/assets/banner.png?raw=true" />
+<img src="https://i.imgur.com/abc1234.png" />
+
+
 ## 💻Main Language
 <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white" width="61"/> <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=yellow" width="112"/> <img src="https://img.shields.io/badge/C%23-7c3aed.svg?&style=for-the-badge&logo=C-sharp&logoColor=white" width="45"/>
 

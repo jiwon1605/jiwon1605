@@ -8,7 +8,7 @@
 📞Contact me at `choe180115@naver.com`
 
 ## 💻Main Language
-<img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white" width="61"/> <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=yellow" width="112"/> <img src="https://img.shields.io/badge/C%23-7c3aed.svg?&style=for-the-badge&logo=C-sharp&logoColor=white" width="45"/>
+<img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white" width="61"/> <img src="https://img.shields.io/badge/C%23-7c3aed.svg?&style=for-the-badge&logo=C-sharp&logoColor=white" width="45"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwon1605&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

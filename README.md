@@ -1,11 +1,7 @@
 ## 😃About Me
-🤓 I'm studying Computer Engineering.
-
-📨 I'm interested in Computer Networks.
+🤓 I'm studying Security.
 
 📚I enjoy the process of learning and growing.
-
-📞Contact me at `choe180115@naver.com`
 
 ## 💻Main Language
 <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white" width="61"/> <img src="https://img.shields.io/badge/C%23-7c3aed.svg?&style=for-the-badge&logo=C-sharp&logoColor=white" width="45"/>

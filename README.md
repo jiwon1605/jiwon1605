@@ -15,6 +15,11 @@
 <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black" width="100"/> <img src="https://img.shields.io/badge/Visual%20Studio-8249bb?style=for-the-badge&logo=Visual-Studio&logoColor=white" width="150"/> <img src="https://img.shields.io/badge/Visual%20Code-3ba8f2?style=for-the-badge&logo=Visual-Studio&logoColor=white" width="130"/> <img src="https://img.shields.io/badge/VirtualBox-2F61B4.svg?&style=for-the-badge&logo=VirtualBox&logoColor=white" width="155"/> <img src="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white" width="125"/> 
 
 ## 🌱 Still growing
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choe180115)](https://solved.ac/choe180115/) [![TryHackMe Badge](./thm_badge.svg)](https://tryhackme.com/user/4323083)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choe180115)](https://solved.ac/choe180115/)
+<!doctype html>
+<meta charset="utf-8">
+<title>TryHackMe Badge</title>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4323083" style="border:none;width:100%;height:240px;"></iframe>
+
 
 

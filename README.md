@@ -16,10 +16,7 @@
 
 ## 🌱 Still growing
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choe180115)](https://solved.ac/choe180115/)
-<!doctype html>
-<meta charset="utf-8">
-<title>TryHackMe Badge</title>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4323083" style="border:none;width:100%;height:240px;"></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/gorapaduck.png" alt="Your Image Badge" />
 
 
 

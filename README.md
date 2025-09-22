@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white" width="61"/> <img src="https://img.shields.io/badge/C%23-7c3aed.svg?&style=for-the-badge&logo=C-sharp&logoColor=white" width="45"/>
 
 ## ✨I'm Confident in
-<img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white" width="125"/> <img src="https://img.shields.io/badge/kalilinux-557C94.svg?&style=for-the-badge&logo=kalilinux&logoColor=white" width="135"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white" width="125"/> <img src="https://img.shields.io/badge/kalilinux-557C94.svg?&style=for-the-badge&logo=kalilinux&logoColor=white" width="150"/>
 
 
 ## 🔧Using Tools like
